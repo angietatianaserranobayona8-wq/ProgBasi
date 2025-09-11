@@ -25,3 +25,4 @@ function CalcularEdad(){
 
  resultado.textContent = `Tienes ${edad} años`;
 }
+
