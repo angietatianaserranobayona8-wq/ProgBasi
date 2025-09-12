@@ -77,3 +77,4 @@ function validar() {
         });
     }
 }
+alert ("bienvenid@s")

@@ -61,3 +61,8 @@ console.log(array[3]);
 console.log(estudiantes [1].nombre);
 console.log(curso);
 console.log(curso.temas);
+
+for (let i = 0; i < 5; i++){
+  console.log("numero:"+ i);
+}
+
